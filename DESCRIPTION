@@ -18,3 +18,9 @@ Suggests:
     testthat (>= 3.0.0)
 Language: en-US
 Config/testthat/edition: 3
+Imports: 
+    ggplot2,
+    magrittr,
+    tibble
+URL: https://github.com/hayleymanke10/testpackage
+BugReports: https://github.com/hayleymanke10/testpackage/issues
